@@ -12,7 +12,8 @@ The program `porter stemmer.py` implements the algorithm.this algorithm (or 'Por
 
 ## Team name
 
-Abinet Tassew id a/ur14439/10 \n
+Abinet Tassew id a/ur14439/10 
+
 Mengaye Yechale id a/ur14034/10
 
 # reminder
